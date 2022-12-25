@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m Mohamed Ezzedine<br>
 🔭 I’m currently working on MERN stack projects<br>
-🌱 I’m currently learning Cloud & DevOps<br>
+🌱 I’m currently learning AWS Cloud & DevOps<br>
 👀 I’m interested in Game Development and Machine Learning<br>
 
 ## 🌐Socials
