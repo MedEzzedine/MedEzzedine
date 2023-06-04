@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m Mohamed Ezzedine<br>
 🌱 I’m currently learning AWS Cloud & DevOps<br>
-🔭 I’m currently working on getting AWS Solutions Architect Associate Certificate<br>
+🔭 I'm 2x AWS Certified (Cloud Practitioner & Solutions Architect)<br>
 👀 I’m interested in Machine Learning and Game Development<br>
 
 ## 🌐Socials
