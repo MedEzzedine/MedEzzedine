@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 Hi, I’m Mohamed Ezzedine<br>
 🌱 I’m currently learning AWS Cloud & DevOps<br>
-🔭 I'm 2x AWS Certified (Cloud Practitioner & Solutions Architect)<br>
-👀 I’m interested in Machine Learning and Game Development<br>
+🔭 I'm 3x AWS Certified (Solutions Architect & Developer Associate)<br>
+👀 I’m interested in Machine Learning and Game Tech<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m0h4m3d3zz3d1n3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ezzedine)
