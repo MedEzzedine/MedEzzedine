@@ -1,11 +1,11 @@
 # 💫About Me :
 👋 Hi, I’m Mohamed Ezzedine<br>
-🌱 I’m currently working on AWS Cloud & DevOps<br>
+🌱 I’m currently working on AWS Cloud & DevOps projects<br>
 🔭 I'm 3x AWS Certified (Solutions Architect & Developer Associate)<br>
 👀 I’m interested in Machine Learning and Game Tech<br>
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m0h4m3d3zz3d1n3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ezzedine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ezzedine)
 <!---[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TahmKillerB)--->
 <!---[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedEzedine)--->
 
